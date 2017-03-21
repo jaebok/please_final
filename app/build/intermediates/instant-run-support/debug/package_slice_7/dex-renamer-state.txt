@@ -1,0 +1,4 @@
+#Tue Mar 21 21:55:58 KST 2017
+base.0=C\:\\Users\\shin\\Desktop\\se2017\\finaljino\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7
+renamed.0=classes.dex
+file.0=C\:\\Users\\shin\\Desktop\\se2017\\finaljino\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7\\classes.dex

@@ -1,0 +1,7 @@
+#Tue Mar 21 21:55:58 KST 2017
+base.0=C\:\\Users\\shin\\Desktop\\se2017\\finaljino\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_14956bc6cdde1e51a3d84ac38c9d4db40b4dc0d7
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\shin\\Desktop\\se2017\\finaljino\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6927f14501f4bb237f0b70d5582119806873f196\\classes.dex
+base.1=C\:\\Users\\shin\\Desktop\\se2017\\finaljino\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6927f14501f4bb237f0b70d5582119806873f196
+file.0=C\:\\Users\\shin\\Desktop\\se2017\\finaljino\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_14956bc6cdde1e51a3d84ac38c9d4db40b4dc0d7\\classes.dex
